@@ -151,3 +151,33 @@ color : white ;
     width: 33% ;
     height: 25%;
   }
+.bgg .bgww {
+  float: left;
+  background-color: white ;
+  height:25px ;
+  width: 33%;
+position: absolute;
+margin-top: 355px;
+text-align: center;
+font-weight: bold;
+}
+.bgg .bgww1 {
+  float: left;
+  background-color: white ;
+  height:25px ;
+  width: 33%;
+position: absolute;
+margin-top: 355px;
+text-align: center;
+font-weight: bold;
+}
+.bgg .bgww2 {
+  float: left;
+  background-color: white ;
+  height:25px ;
+  width: 33%;
+position: absolute;
+margin-top: 355px;
+text-align: center;
+font-weight: bold;
+}
