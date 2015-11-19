@@ -118,7 +118,7 @@ color : white ;
 
 .bgg {
   background-color: #C0C0C0 ;
-  height : 10em ;
+  height : 18em ;
 }
 
 .bgg p {
@@ -145,3 +145,9 @@ color : white ;
   width :25% ;
   height: 25% ;
 }
+.img3 {
+  padding-top: 20px ;
+    float: left;
+    width: 33% ;
+    height: 25%;
+  }
