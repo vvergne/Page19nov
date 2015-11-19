@@ -134,5 +134,14 @@ color : white ;
   border :1px solid yellow;
   margin-left: 45%;
   margin-top: 20px ;
+}
+.bgg .bla {
+  font-size: 20px ;
+  font-weight: normal;
+}
 
+.bgg .3img {
+  align-items: baseline;
+  width :25% ;
+  height: 25% ;
 }
